@@ -1,2 +1,2 @@
-# NoNamed-Codeing-Guide
+# NoNamed-Coding-Guide
 Team Guide
